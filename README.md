@@ -2,7 +2,7 @@ raspberrydash-power
 ==============
 
 This simple python program is meant to power off a TV connected to a raspberry pi to save
-enery on nights and weekends.
+energy on nights and weekends.
 
 Hardware Requirements
 --------------
